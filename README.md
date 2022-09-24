@@ -29,7 +29,7 @@ Hyperparameters can be changed in file config.yml
 ## Testing
 To run separate testing, please provide path in config.yml in weights. 
 
-Weight file model_resnet_50_epochs.pth is attached in email. 
+Please use link https://drive.google.com/file/d/1mRSCq4mg-KdpJA_do-0D9G_5yV60Jiaq/view?usp=sharing for sample weights model_resnet_50_epochs.pth. 
 
 Below is an example to test directly using path:
 weights: 'model_resnet_50_epochs.pth'
