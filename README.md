@@ -21,6 +21,7 @@ Other models can be chosen by uncommenting/commenting in the cell heading "Task 
 modelname="resnet"
 ```
 
+Note please keep weights: just empty to train
 
 ## Hyperparmeters
 Hyperparameters can be changed in file config.yml
