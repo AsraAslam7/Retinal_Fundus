@@ -1,0 +1,10 @@
+dataset:
+  num_classes: 39
+train:
+  batch_size: 8
+  num_epochs: 100
+  lr: 1e-3
+  criterion: 'cross_entropy'
+split:
+  perc_val: 0.2
+weights: 
